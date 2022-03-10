@@ -1,0 +1,3 @@
+G:/project/C/The color of the gases/cmake-build-debug/CMakeFiles/The_color_of_the_gases.dir
+G:/project/C/The color of the gases/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/project/C/The color of the gases/cmake-build-debug/CMakeFiles/rebuild_cache.dir
